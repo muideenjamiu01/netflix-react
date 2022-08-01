@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+API Key: ea561cb5ad697a9f48bbb3f091f77ac0
+https://netflix-clone-react-c06e9.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
